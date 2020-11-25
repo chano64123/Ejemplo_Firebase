@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movie Boards</string>
+    <string name="movie_name_hint">Enter Movie Name</string>
+    <string name="search_movie">Buscar Pelicula</string>
+    <string name="movie_example">movie_example</string>
+    <string name="category_example">A Category Example</string>
+    <string name="instructions">No Movies Available Please Enter your fav movie by clicking + Button</string>
+</resources>
